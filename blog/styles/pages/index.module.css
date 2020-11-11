@@ -1,0 +1,34 @@
+.comm_main{
+    margin-top: .5rem;
+}
+.comm_left{
+    background-color: #FFF;
+    padding:.3rem;
+    border-radius: .3rem;
+    border:1px solid #eee;
+}
+.comm_box{
+    background-color: #fff;
+    margin-left: .5rem;
+    padding: .3rem;
+    border-radius: .3rem;
+    border-bottom: 1px solid #eee;
+}
+
+.list_title{
+    font-size:1.3rem;
+    color: #1e90ff;
+    padding: 0 0.5rem;
+}
+.list_context{
+    color:#777;
+    padding:.5rem;
+}
+.list_icon{
+    padding:.5rem 0;
+    color:#AAA;
+}
+.list_icon span{
+    display: inline-block;
+    padding: 0 10px;
+}

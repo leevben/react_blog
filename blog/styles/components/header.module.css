@@ -1,0 +1,34 @@
+.header{
+    background-color: #fff;
+    height:3rem;
+    /* padding: 0 8rem; */
+    overflow: hidden;
+    border-bottom:1px solid #ccc;
+}
+.header_left{
+    margin-left:5rem ;
+}
+.header_right{
+    margin-left:5rem ;
+}
+.header_logo{
+    color:#1e90ff;
+    font-size: 1.4rem;
+    text-align: left;
+    line-height: 3rem;
+}
+.header_txt{
+    font-size: 0.6rem;
+    color: #999;
+    display: inline-block;
+    padding-left: 0.3rem;
+}
+.ant_menu_reset{
+    line-height: 3rem;
+}
+.ant_menu_item_reset{
+    font-size:.7rem !important;
+    padding-left:1rem;
+    padding-right:1rem;
+
+}

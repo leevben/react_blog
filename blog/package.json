@@ -1,0 +1,22 @@
+{
+  "name": "blog1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.2.2",
+    "antd": "^4.7.2",
+    "axios": "^0.21.0",
+    "highlight.js": "^10.3.1",
+    "lodash": "^4.17.20",
+    "markdown-navbar": "^1.4.3",
+    "marked": "^1.2.2",
+    "next": "9.5.5",
+    "react": "17.0.0",
+    "react-dom": "17.0.0"
+  }
+}
