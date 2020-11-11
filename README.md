@@ -17,11 +17,12 @@
   
   #### 导入数据，配置数据库
   
-    <br/>
-     将项目下的database文件夹下的表导入到数据库
-     打开/service/config/config.default.js
-     找到<code>config.mysql</code>对象
-     根据你数据库的设置改写配置
+ <br/>
+
+ 将项目下的database文件夹下的表导入到数据库
+ 打开/service/config/config.default.js
+ 找到<code>config.mysql</code>对象
+ 根据你数据库的设置改写配置
      
 ##### blog
 
